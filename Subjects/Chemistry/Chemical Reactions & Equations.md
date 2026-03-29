@@ -79,6 +79,8 @@ $$H_{2} + O_{2} \rightarrow H_{2}O$$
  >[!important]
 > Solution of $$Ca(OH)_2$$ is $$CaO$$
 
+> $$Ca(OH)_2 $$ is used for whitewashing
+
 > [!info] Exothermic Reaction
 > Reaction in which energy is released.
 > e.g. $$CaO + H_{2}O \rightarrow Ca(OH)_{2} + Heat$$
