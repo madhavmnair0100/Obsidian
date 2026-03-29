@@ -207,3 +207,16 @@ Main respiratory organ is the lungs (Pulmonary respiration).
 > [!question] Compare Villi & Alveoli
 > - **Villi:** Part of the digestive system (intestine). Finger-like structure. Increases surface area for absorption of nutrients from food.
 > - **Alveoli:** Part of the respiratory system (lungs). Balloon-like structure. Increases surface area for gaseous exchange.
+
+
+``` tracker
+searchType: tag
+searchTarget: life
+folder: /
+startDate:
+endDate:
+bar:
+    title: "Bar Chart"
+    xAxisLabel: Date
+    yAxisLabel: Value
+```
