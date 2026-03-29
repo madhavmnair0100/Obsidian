@@ -56,7 +56,7 @@ $$H_{2} + O_{2} \rightarrow H_{2}O$$
 * $$3Fe + 4H_{2}O \rightarrow Fe_{3}O_{4} + 4H_{2}$$
 * $$CH_{4} + 2O_{2} \rightarrow CO_{2} + 2H_{2}O$$
 
-> [!example]+ Balance the following chemical equations
+> [!example]+ Balanced chemical equations
 > 1. $$4Na + O_{2} \rightarrow 2Na_{2}O$$
 > 2. $$2Mg + O_{2} \rightarrow 2MgO$$
 > 3. $$4Al + 3O_{2} \rightarrow 2Al_{2}O_{3}$$
