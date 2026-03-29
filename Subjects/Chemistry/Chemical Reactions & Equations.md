@@ -74,6 +74,10 @@ $$H_{2} + O_{2} \rightarrow H_{2}O$$
 > Take a beaker, put some CaO powder in it. Mix it with water.
 > **Observation:** Experienced heat while touching side of the beaker.
 > $$CaO + H_{2}O \rightarrow Ca(OH)_{2} + Heat$$ *(Slaked Lime)*
+> 
+
+ >[!important]
+> Solution of $$Ca(OH)_2$$ is $$CaO$$
 
 > [!info] Exothermic Reaction
 > Reaction in which energy is released.
