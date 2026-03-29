@@ -212,11 +212,4 @@ Main respiratory organ is the lungs (Pulmonary respiration).
 ``` tracker
 searchType: tag
 searchTarget: life
-folder: /subjects/biology/life processes/life peocesses
-startDate:
-endDate:
-bar:
-    title: "Bar Chart"
-    xAxisLabel: Date
-    yAxisLabel: Value
-```
+fold
