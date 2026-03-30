@@ -175,11 +175,10 @@ $$MnO_{2} + 4HCl \rightarrow MnCl_{2} + 2H_{2}O + Cl_{2}$$
 
 <center><h3>Corrosion</h3></center>
  
-> [!note]
-> It is the reaction in which metals combine with oxygen, carbondioxide, water etc. to for  compounds
-
-
->  *e.g. Iron react with Oxygen and water to form rust.*
+ > [!note]
+> It is the reaction in which metals combine with oxygen, carbondioxide, water etc. to form compounds
+>   *e.g. Iron react with Oxygen and water to form rust.*
+> 
 
 **Methods to prevent rust:**
 * Painting
