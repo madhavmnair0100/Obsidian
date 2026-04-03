@@ -1,3 +1,4 @@
+
 ## What is Communication?
 
 Communication involves **Speaking**, **Listening** & **Understanding**.
@@ -14,7 +15,7 @@ Communication has **3 parts**:
 
 ## Types of Communication
 
-<p align="center" style="font-size: 10px; color: gray;">(Insert Diagram: Triangle showing 3 types — Verbal, Non-Verbal, Visual — with Verbal branching into Interpersonal, Written, Small Group, Public)</p>
+![[Pasted image 20260401195448.png]]
 
 Communication is of **3 types**: **Verbal**, **Non-Verbal**, **Visual**
 
@@ -286,7 +287,7 @@ In the communication process, one person is a **sender** who conveys a message t
 
 A communication cycle includes resources such as **email threads, social media outlets, VoIP** (Voice over Internet Protocol) **message outlets** etc.
 
-<p align="center" style="font-size: 10px; color: gray;">(Insert Diagram: Communication Cycle — Sender → Encoding → Communication Channel → Decoding → Receiver → Feedback → back to Sender)</p>
+![[Pasted image 20260403074342.png]]
 
 ### Elements of Communication Cycle
 
