@@ -1,0 +1,7 @@
+ - [ ] Smol Story desc ➕ 2026-03-27 
+ - [x] 20MCQs Malyalam ➕ 2026-03-27 ✅ 2026-03-27
+ - [x] Malaylam Q3 ➕ 2026-03-27 ✅ 2026-03-27
+ - [x] Artificial Intelligence Test ==Sreeja== 📅 2026-03-30 ➕ 2026-03-2026
+ - [x] Mathematics Polynomial Test ➕ 2026-03-27 
+ - [x] Artificial Intelligence Viva ➕ 2026-03-27 
+ - [x] Malayalam chapter 2 mcqs
