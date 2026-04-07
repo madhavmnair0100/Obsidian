@@ -12,7 +12,7 @@
 > Lencho hoped for a <mark style="background:rgba(240, 200, 0, 0.2)">good rain / a downpour / a shower</mark>. By this he expects his crops would give him good yields.
 
 > [!question] Why did Lencho write a letter? What did he ask for?
-> When Lencho's annual crop was completely destroyed due to heavy rain and hailstorm, there was no one to help him during the crisis. So he wrote a letter to God requesting him to send **hundred pesos**, so that he could sow his field again and look after his entire family for the year.
+> When Lencho's annual crop was completely destroyed ==due to heavy rain and hailstorm,== there was no one to help him during the crisis. So he wrote a letter to God requesting him to send **hundred pesos**, so that he could sow his field again and look after his entire family for the year.
 
 > [!question] Why did Lencho say the raindrops were like "new coins"?
 > Lencho hoped to get good crops because of raindrops. He thought he would earn money from the harvest, so he called them <mark style="background:rgba(255, 133, 0, 0.2)">new coins</mark>.
