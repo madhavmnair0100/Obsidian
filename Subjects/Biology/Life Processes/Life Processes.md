@@ -101,11 +101,7 @@ border: on
 
 **Cross Section of Leaf — Diagram**
 
-<p align="center" style="font-size: 10px; color: gray;">(Insert Diagram: Cross section of a leaf — Waxy Cuticle, Upper Epidermis, Chloroplast, Air Spaces, Lower Epidermis, Guard Cell)</p>
-
-> [!tip] AI Image Generation Prompt — Cross Section of Leaf
-> "Scientific biological diagram, cross-section of a dicot leaf, educational textbook style, clean white background, labeled anatomy, showing layers from top to bottom: Waxy Cuticle (thin waxy layer at very top), Upper Epidermis (single layer of flat rectangular cells tightly packed), Palisade Mesophyll (tall columnar cells densely packed with green oval chloroplasts inside), Spongy Mesophyll (irregularly shaped cells with large air spaces between them, fewer chloroplasts), Lower Epidermis (single layer of flat cells), Guard Cells (two kidney-bean shaped cells flanking a small stomatal pore at the very bottom). Clear black label arrows pointing to each layer from the left and right sides. Professional biological illustration style, high detail, clean crisp black lines, light green color only for chloroplasts inside cells, everything else in black and white."
-
+![[1775200128841.png]]
 ---
 
 ### Stomata & Lenticels
