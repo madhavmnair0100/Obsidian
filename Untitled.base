@@ -1,5 +1,33 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+      - file.ext
+      - file.folder
+      - file.fullname
+      - file.links
+      - file.mtime
+      - file.path
+      - file.size
+      - formula.Untitled
+      - file.tags
+      - appliance
+      - cook-time
+      - cuisine
+      - excalidraw-plugin
+      - meal-type
+      - prep-time
+      - servings
+      - tags
+      - total-time
+  - type: cards
+    name: View
+  - type: list
+    name: View 2
