@@ -1,7 +1,0 @@
----
-cssclasses:
-tags:
-excalidraw-plugin:
----
-
-
