@@ -1,3 +1,6 @@
+---
+tags: [note]
+---
 - [[#Fire and Ice|Fire and Ice]]
 	- [[#Fire and Ice#Key Concepts|Key Concepts]]
 	- [[#Fire and Ice#Question & Answers|Question & Answers]]

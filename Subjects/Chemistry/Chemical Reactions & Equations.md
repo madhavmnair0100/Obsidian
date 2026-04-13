@@ -1,3 +1,6 @@
+---
+tags: [note]
+---
 - [[#Chemical Reactions & Equations|Chemical Reactions & Equations]]
 	- [[#Chemical Reactions & Equations#Chemical Formulae|Chemical Formulae]]
 	- [[#Chemical Reactions & Equations#Balancing Chemical Equations|Balancing Chemical Equations]]

@@ -1,3 +1,6 @@
+---
+tags: [note]
+---
 - [[#A Letter to God|A Letter to God]]
 	- [[#A Letter to God#Question & Answers|Question & Answers]]
 	- [[#A Letter to God#Character Sketch of Lencho|Character Sketch of Lencho]]

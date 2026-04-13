@@ -1,3 +1,6 @@
+---
+tags: [note]
+---
 - [[#Dust of Snow|Dust of Snow]]
 	- [[#Dust of Snow#Analysis|Analysis]]
 	- [[#Dust of Snow#Central Theme|Central Theme]]

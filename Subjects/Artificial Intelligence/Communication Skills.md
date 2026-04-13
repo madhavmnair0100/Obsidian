@@ -1,3 +1,6 @@
+---
+tags: [note]
+---
 - [[#What is Communication?|What is Communication?]]
 - [[#Types of Communication|Types of Communication]]
 - [[#1. Verbal Communication|1. Verbal Communication]]

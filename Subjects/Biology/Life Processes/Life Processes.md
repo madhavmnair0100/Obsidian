@@ -1,3 +1,6 @@
+---
+tags: [note]
+---
 - [[#Life Processes|Life Processes]]
 - [[#Nutrition|Nutrition]]
 	- [[#Nutrition#Autotrophic Nutrition & Photosynthesis|Autotrophic Nutrition & Photosynthesis]]
