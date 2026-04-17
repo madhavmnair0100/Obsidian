@@ -40,7 +40,7 @@ It is of <mark style="background:rgba(0, 255, 255, 0.2)">2 types</mark>:
 
 ### Autotrophic Nutrition & Photosynthesis
 
-<center>Autotrophic nutrition is the process of production of food by the organism itself. Organisms which synthesise their own food are called <b>autotrophs</b> (e.g., Green Plants).</center>
+<center>Type of nutrition in which organismspreparetheirownfood<b>autotrophs</b> (e.g., Green Plants).</center>
 
 > [!important] Etymology
 > - **Photo:** Light
