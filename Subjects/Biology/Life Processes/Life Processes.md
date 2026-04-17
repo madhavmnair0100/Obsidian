@@ -87,6 +87,7 @@ border: on
 
 ---
 
+## Plants
 ### Where Do Plants Get Raw Materials?
 
 | Raw Material | Source | Entry Via |
@@ -168,7 +169,7 @@ border: on
 | 5 | **Egestion** | Eliminating undigested waste from the body. |
 
 ---
-
+## Amoeba
 ### Nutrition in Amoeba
 
 > Amoeba is **omnivorous**. Its mode of nutrition is **holozoic**.
