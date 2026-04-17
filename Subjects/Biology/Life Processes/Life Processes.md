@@ -102,7 +102,6 @@ border: on
 > - **Food Factory of plants:** Leaf
 > - **Food Producing Organelle:** Plastid / Chloroplast
 
-**Cross Section of Leaf — Diagram*
 ---
 
 ### Stomata & Lenticels
