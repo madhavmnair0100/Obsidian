@@ -58,8 +58,9 @@ $$6CO_{2} + 12H_{2}O \xrightarrow[\text{chlorophyll}]{\text{sunlight}} C_{6}H_{1
 
 > [!important] Basic Events of Photosynthesis
 > 1. Absorption of **light energy** by chlorophyll.
-> 2. Conversion of light energy into **chemical energy** & **splitting of water** (photolysis) into Hydrogen and Oxygen.
-> 3. **Reduction of CO₂** into Carbohydrate.
+> 	2. Conversion of light energy into **chemical energy** 
+>     2 **splitting of water** (photolysis) into Hydrogen and Oxygen.
+> 2. **Reduction of CO₂** into Carbohydrate.
 
 **Photosynthesis consists of 2 reactions:**
 
